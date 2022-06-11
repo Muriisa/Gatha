@@ -2,8 +2,10 @@
 ## Project Website: [DefiGatha](https://defigatha.com/)
 ## Location: Mukono, Kampala Central Uganda
 ## Grant type: Defi Space/ working space/ education center
-## Requested Amount: $12200
+## Requested Amount: $20480 ( 4623 NEAR at the time of writing)
 ## Near Address: 71e3df38b4a57db116c31c9a55e33671754839d48179b551ae1d47502a77ff37
+## Proposed by: Muriisa Juliana
+## Contact: muriisajuliana@gmail.com Tel: +256751499472
 
 ## Project Introduction #
 ![This is an image](https://i.postimg.cc/fRbVw3p4/Defi-Gatha.jpg)
@@ -43,6 +45,7 @@ There are a lot of people deep in the villages who are still Un banked, even wit
 
 ## Milestone I
 - House Rental and Installation
+- Start Date: 25-07-2022
 
 ## Poposed Budget
 | Item | Description | Amount |
@@ -56,7 +59,7 @@ There are a lot of people deep in the villages who are still Un banked, even wit
 | **Total**| | **USD 12200**|
 
 ## Milestone II
-After our first successful milestone, we will launch with a weekend Seminar at our house, with different speakers covering different topics about Blockchain and coding on Near Blockchain, Jam session introducing about web development and Blockchain Development, create our marketplace on near Blockchain using Dacade.org Near Course
+After our first successful milestone, we will launch with a weekend Seminar at our house, with different speakers covering different topics about Blockchain and Introduction to Near Blockchain, and Cryptocurriencies.
 
 ## Proposed Budget
 | Item | Amount|
@@ -71,11 +74,11 @@ After our first successful milestone, we will launch with a weekend Seminar at o
 
 **Anticipated Participants** 50
 
-**Date:** From 25th to 26th June 2022
+**Date:** From 5th to 6th August 2022
 
 ## Milestone III
 
-With the completion of  milestone2, we will prepare and organize a Dev event at our space focusing on developing using Near Frame works and Infrastructure, this will include student developers from various Universities and Institutions, other developers from Startups and Hubs.
+With the completion of  milestone2, we will prepare and organize a Dev event at our space focusing on developing using Near Frame works and Infrastructure,Jam session introducing about web development and Blockchain Development, create our marketplace on near Blockchain using Dacade.org Near Course, this will include student developers from various Universities and Institutions, other developers from Startups and Hubs.
 
 ## Proposed Budget
 |Item| Price|
@@ -89,7 +92,7 @@ With the completion of  milestone2, we will prepare and organize a Dev event at 
 
 **Anticipated Participants:** 50
 
-**Date**: 30-07-2022
+**Date**: 2nd-3rd-Sep-2022
 
 
 
